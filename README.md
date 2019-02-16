@@ -3,7 +3,6 @@
 - Description 1
 - Description 2
 
-
 ## What it does
 
 - Feature 1
